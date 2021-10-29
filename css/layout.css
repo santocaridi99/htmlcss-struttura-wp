@@ -29,7 +29,7 @@ header{
 
 .row{
     height:500px ;
-    background-color: 500px;
+    background-color: #1196ff;
     padding-top:20px ;
     padding-bottom: 20px;
     
@@ -52,7 +52,6 @@ main{
     float: right;
     width: calc(60% - 40px);
     height: 100%;
-    border: 2px solid black;
     margin-right: 20px;
     margin-left: 20px;
 
@@ -66,13 +65,11 @@ main{
     float: right;
     width: 20%;
     height: 100%;
-    border:2px solid black;
 }
 .sx{
     float: left;
     width: 20%;
     height: 100%;
-    border:2px solid black;
 }
 
 footer{
