@@ -10,13 +10,13 @@
 }
 
 header{
-    background-color: pink;
+    background-color: #dd6fc7;
     height:120px;
 
 }
 
 .giallo{
-    background-color: rgb(197 197 43);
+    background-color: rgb(213 213 48 / 72%);
     height: 500px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -73,7 +73,7 @@ main{
 }
 
 footer{
-    background-color: purple;
+    background-color:#7a01cd;
     height:100px ;
     margin-top: 10px;
 }
